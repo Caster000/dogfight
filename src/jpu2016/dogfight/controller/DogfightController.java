@@ -23,7 +23,7 @@ public class DogfightController implements IOrderPerformer{
 	}
 	
 	private void lauchMissile(int player) {
-		
+		Missile missile = new Missile();
 	}
 	
 	private void gameLoop() {
