@@ -1,3 +1,4 @@
+package jpu2016.dogfight.model;
 public class Cloud extends Mobile{
     private final int SPEED = 1;
     private final int WIDTH = 300;

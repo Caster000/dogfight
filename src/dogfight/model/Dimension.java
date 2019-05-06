@@ -1,3 +1,4 @@
+package jpu2016.dogfight.model;
 public class Dimension extends Mobile{
     private int width;
     private int height;

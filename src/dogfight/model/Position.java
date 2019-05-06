@@ -1,3 +1,5 @@
+package jpu2016.dogfight.model;
+
 public class Position extends Mobile{
     private double x;
     private double y;
